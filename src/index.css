@@ -1,0 +1,3 @@
+body {
+  grid-template-columns: 1fr min(1400px, 90%) 1fr;
+}

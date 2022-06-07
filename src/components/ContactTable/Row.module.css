@@ -1,0 +1,12 @@
+.Row td {
+  min-width: 135px;
+}
+
+.Row td div {
+  display: flex;
+  flex-direction: column;
+}
+
+.deleteButton {
+  background-color: rgb(255, 82, 82);
+}

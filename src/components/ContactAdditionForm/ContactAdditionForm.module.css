@@ -1,0 +1,20 @@
+.ContactAdditionForm {
+  max-width: 600px;
+}
+
+.ContactAdditionForm label {
+  display: block;
+  font-weight: bold;
+}
+.ContactAdditionForm input {
+  width: 100%;
+}
+
+.Error {
+  font-weight: 500;
+  color: #b80000;
+  background-color: #ffe2e2;
+  padding: 0.75em;
+  border-radius: 0.25em;
+  border: 1px solid #b80000;
+}
